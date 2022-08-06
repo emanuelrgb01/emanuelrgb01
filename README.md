@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanuelrgb01
-- 👀 I’m interested in Mobile and web development.
-- 🌱 I’m currently learning C, C++, Javascript, React and React Native
+- 👀 I’m interested in Mobile/Web development.
+- 🌱 I’m currently learning C, C++, Javascript, React and Python
 
 
 <!---
